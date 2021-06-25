@@ -1,0 +1,19 @@
+{
+  "name": "fastify-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Muhammed Faris",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.18.0",
+    "fastify-swagger": "^4.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
